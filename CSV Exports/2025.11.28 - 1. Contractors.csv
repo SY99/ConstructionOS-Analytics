@@ -1,0 +1,12 @@
+contractor_id;contractor_name;contact_person;phone;email;address;gst_number;pan_number;contractor_category;status;is_active;created_at;updated_at
+1;"Shree Brickwork Solutions";"Ramesh Gupta";9876543210;ramesh.brickwork@example.com;"Pune, Maharashtra";27ABCDE1234F1Z5;ABCDE1234F;"Masonry / Brickwork";Active;1;"2025-11-15 17:21:58";"2025-11-15 17:21:58"
+2;"Perfect Plaster Works";"Mahesh Patil";9087654321;mahesh.plaster@example.com;"Pune, Maharashtra";27FGHIJ5678K2Z6;FGHIJ5678K;Plaster;Active;1;"2025-11-15 17:21:58";"2025-11-15 17:21:58"
+3;"Interior POP Experts";"Amit Sharma";9898989898;amit.pop@example.com;"Mumbai, Maharashtra";27KLMNO9876P3Z7;KLMNO9876P;"POP / Gypsum";Active;1;"2025-11-15 17:21:58";"2025-11-15 17:21:58"
+4;"Sai Electricals";"Suresh Yadav";9012345678;suresh.elec@example.com;"Pune, Maharashtra";27PQRS1234T4Z8;PQRS1234T;"Electrical Work";Active;1;"2025-11-15 17:21:58";"2025-11-15 17:21:58"
+5;"Omkar Plumbing Services";"Nikhil Pawar";9123456780;nikhil.plumb@example.com;"Nashik, Maharashtra";27UVWX4321Y5Z9;UVWX4321Y;"Plumbing Work";Active;1;"2025-11-15 17:21:58";"2025-11-15 17:21:58"
+6;"AquaSeal Waterproofing";"Deepak Jadhav";9345678901;deepak.wproof@example.com;"Thane, Maharashtra";27MNOPQ1234R6Z1;MNOPQ1234R;Waterproofing;Active;1;"2025-11-15 17:21:58";"2025-11-15 17:21:58"
+7;"TileCraft Services";"Pravin More";9456789012;pravin.tile@example.com;"Kolhapur, Maharashtra";27STUVW5678X7Z2;STUVW5678X;Tiling;Active;1;"2025-11-15 17:21:58";"2025-11-15 17:21:58"
+8;"Marble & Granite Hub";"Rohit Verma";9567890123;rohit.granite@example.com;"Mumbai, Maharashtra";27YZABC6789D8Z3;YZABC6789D;"Granite / Marble";Active;1;"2025-11-15 17:21:58";"2025-11-15 17:21:58"
+9;"StrongBuild RCC Contractors";"Vikas Deshmukh";9678901234;vikas.rcc@example.com;"Pune, Maharashtra";27EFGHI9876J9Z4;EFGHI9876J;"RCC / Structural Work";Active;1;"2025-11-15 17:21:58";"2025-11-15 17:21:58"
+10;"Prime Door & Window Systems";"Rajesh Shetty";9789012345;rajesh.doors@example.com;"Pune, Maharashtra";27JKLMN5432O1Z5;JKLMN5432O;"Doors & Windows";Active;1;"2025-11-15 17:21:58";"2025-11-15 17:21:58"
+11;"ColorWorks Painting Co.";"Anil Mane";9890123456;anil.paint@example.com;"Pune, Maharashtra";27PQRST8765U2Z6;PQRST8765U;"Painting & Touchup";Active;1;"2025-11-15 17:21:58";"2025-11-15 17:21:58"

@@ -1,0 +1,2 @@
+wing_id;project_id;wing_name;total_floors;total_flats;start_date;completion_date;construction_status;remarks;is_active;created_at;updated_at
+1;1;"Tower A";45;86;2023-10-06;2025-11-05;Ongoing;"Flagship luxury residential tower with 2 flats per floor and 4 penthouses.";1;"2023-10-06 00:00:00";"2025-11-16 22:44:40"
