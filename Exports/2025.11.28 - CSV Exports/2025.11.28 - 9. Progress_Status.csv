@@ -1,9 +1,0 @@
-status_id;status_key;display_label;percentage;is_active
-1;not_started;"Not Started";0;1
-2;initiated;Initiated;10;1
-3;in_progress_low;"In Progress (Low)";25;1
-4;in_progress_mid;"In Progress (Mid)";40;1
-5;in_progress_high;"In Progress (High)";60;1
-6;near_completion;"Near Completion";80;1
-7;final_review;"Final Review";90;1
-8;completed;Completed;100;1
